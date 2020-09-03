@@ -1,0 +1,14 @@
+{
+  "name": "exercism-elixir",
+  "dockerComposeFile": ["../docker-compose.yml"],
+  "service": "elixir",
+  "workspaceFolder": "/root/exercism/elixir/",
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash"
+  },
+  "extensions": [
+    "JakeBecker.elixir-ls",
+    "visualstudioexptteam.vscodeintellicode",
+    "jeff-hykin.code-eol"
+  ]
+}
